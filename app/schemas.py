@@ -9,6 +9,7 @@ class ParticipantBase(BaseModel):
     academy: str
     height: float
     category: str
+    aztlan_id: Optional[str] = None
 
 class ParticipantCreate(ParticipantBase):
     pass

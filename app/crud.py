@@ -34,3 +34,12 @@ def update_participant(db: Session, participant_id: int, updates: ParticipantUpd
     db.commit()
     db.refresh(db_participant)
     return db_participant
+
+def delete_participant(db: Session, participant_id: int):
+    logger.info(f"Eliminando participante en el crud {participant_id}")
+    db_participant = db.query(Participant).filter(Participant.id == participant_id).first()
+    if db_participant:
+        db.delete(db_participant)
+        db.commit()
+        return db_participant
+    return None

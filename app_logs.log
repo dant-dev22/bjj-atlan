@@ -6,3 +6,1024 @@
 2024-12-06 13:03:28,054 - my_logger - INFO - soy el participante 14 3925b2
 2024-12-06 13:26:41,881 - my_logger - INFO - so el linea 86
 2024-12-06 13:29:34,245 - my_logger - INFO - so el linea 86
+2024-12-09 17:15:39,058 - my_logger - INFO - Creando participante 91cf14
+2024-12-09 17:32:21,387 - my_logger - INFO - Creando participante 1a460b
+2024-12-09 17:37:29,489 - my_logger - INFO - Creando participante 9fb8af
+2024-12-10 16:15:22,967 - my_logger - INFO - Creando participante bae3ba
+2024-12-10 16:18:28,209 - my_logger - INFO - Creando participante 69c710
+2024-12-10 16:20:22,909 - my_logger - INFO - Creando participante d9617d
+2024-12-10 17:11:29,168 - my_logger - INFO - Creando participante e86788
+2024-12-10 17:16:26,328 - my_logger - INFO - Creando participante e9d496
+2024-12-10 17:18:06,711 - my_logger - INFO - Creando participante b49dcd
+2024-12-10 17:19:49,571 - my_logger - INFO - Creando participante 514d13
+2024-12-10 17:20:48,407 - my_logger - INFO - Creando participante 2f66b4
+2024-12-10 17:22:37,138 - my_logger - INFO - Creando participante 5df559
+2024-12-10 17:26:25,580 - my_logger - INFO - Creando participante a043db
+2024-12-10 17:30:33,017 - my_logger - INFO - Creando participante e6d848
+2024-12-10 17:35:04,608 - my_logger - INFO - Creando participante 47158e
+2024-12-10 18:23:28,905 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,905 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,905 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,905 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,905 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,905 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,906 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,907 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,908 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,909 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,910 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,911 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,912 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,913 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,914 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,915 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,916 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,917 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,918 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,919 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,920 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,921 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,922 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,923 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,924 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,925 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,926 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,927 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,928 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,929 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,930 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante <sqlalchemy.orm.session.Session object at 0x103dc83e0>
+2024-12-10 18:23:28,931 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:24:17,188 - my_logger - INFO - Eliminando participante 1
+2024-12-10 18:24:17,188 - my_logger - INFO - Eliminando participante en el crud 1
+2024-12-10 18:27:33,669 - my_logger - INFO - Eliminando participante 2
+2024-12-10 18:27:33,670 - my_logger - INFO - Eliminando participante en el crud 2
+2024-12-10 18:27:40,546 - my_logger - INFO - Eliminando participante 7
+2024-12-10 18:27:40,546 - my_logger - INFO - Eliminando participante en el crud 7
+2024-12-10 18:28:06,736 - my_logger - INFO - Creando participante c02ca3
+2024-12-10 18:28:41,301 - my_logger - INFO - Eliminando participante 10
+2024-12-10 18:28:41,302 - my_logger - INFO - Eliminando participante en el crud 10
+2024-12-10 18:28:44,104 - my_logger - INFO - Eliminando participante 9
+2024-12-10 18:28:44,104 - my_logger - INFO - Eliminando participante en el crud 9
+2024-12-10 18:28:45,811 - my_logger - INFO - Eliminando participante 3
+2024-12-10 18:28:45,811 - my_logger - INFO - Eliminando participante en el crud 3
+2024-12-10 18:30:33,744 - my_logger - INFO - Eliminando participante 4
+2024-12-10 18:30:33,745 - my_logger - INFO - Eliminando participante en el crud 4
+2024-12-10 18:30:35,341 - my_logger - INFO - Eliminando participante 5
+2024-12-10 18:30:35,341 - my_logger - INFO - Eliminando participante en el crud 5
+2024-12-10 18:30:36,771 - my_logger - INFO - Eliminando participante 6
+2024-12-10 18:30:36,771 - my_logger - INFO - Eliminando participante en el crud 6
+2024-12-10 18:30:38,876 - my_logger - INFO - Eliminando participante 8
+2024-12-10 18:30:38,876 - my_logger - INFO - Eliminando participante en el crud 8

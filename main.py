@@ -3,11 +3,12 @@ from fastapi.middleware.cors import CORSMiddleware  # Import the CORS middleware
 from sqlalchemy.orm import Session
 from app.database import engine, SessionLocal
 from app.models import Base
-from app.crud import create_participant, get_participant_by_aztlan_id, update_participant
+from app.crud import create_participant, get_participant_by_aztlan_id, update_participant, delete_participant
 from app.schemas import ParticipantCreate, ParticipantResponse, ParticipantUpdate
 import os
-from uuid import uuid4
 from app.logger.logger import logger
+from typing import List
+from app.models import Participant
 
 Base.metadata.create_all(bind=engine)
 
@@ -27,7 +28,7 @@ app.add_middleware(
     allow_origins=origins,  # Allow requests from these origins
     allow_credentials=True,  # Allow credentials (cookies, etc.)
     allow_headers=["Content-Type", "Authorization", "X-Requested-With", "Accept"],  # Allow specific headers
-    allow_methods=["GET", "POST", "PATCH", "OPTIONS"],
+    allow_methods=["GET", "POST", "PATCH", "OPTIONS", "DELETE"],
 )
 
 def get_db():
@@ -59,14 +60,25 @@ def update_payment(participant_id: int, updates: ParticipantUpdate, db: Session 
         raise HTTPException(status_code=404, detail="Participant not found")
     return db_participant
 
+@app.get("/participants", response_model=List[ParticipantResponse])
+def get_all_participants(db: Session = Depends(get_db)):
+    participants = db.query(Participant).all() 
+    return participants
+
+@app.delete("/participants/{participant_id}", response_model=ParticipantResponse)
+def delete_participant_by_id(participant_id: int, db: Session = Depends(get_db)):
+    logger.info(f"Eliminando participante {participant_id}")
+    db_participant = delete_participant(db, participant_id)
+    if not db_participant:
+        raise HTTPException(status_code=404, detail="Participant not found")
+    return db_participant
+
 @app.post("/participants/{aztlan_id}/upload")
 def upload_payment_proof(
     aztlan_id: str,
     file: UploadFile = File(...),  # Expecting a file from the client
     db: Session = Depends(get_db),
 ):
-    # Check if participant exists
-    logger.info("so el linea 86")
     try:
         db_participant = get_participant_by_aztlan_id(db, aztlan_id)
         if not db_participant:
