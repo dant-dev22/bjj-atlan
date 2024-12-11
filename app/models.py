@@ -18,3 +18,12 @@ class Participant(Base):
     payment_proof = Column(String, nullable=True)  # URL o archivo
     registered_at = Column(DateTime, default=datetime.datetime.utcnow)
     is_payment_complete = Column(Boolean, default=False)
+
+class Payment(Base):
+    __tablename__ = "payments"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    aztlan_id = Column(String, nullable=False, index=True)  # Relación con Participant
+    payment_proof = Column(String, nullable=True)  # URL o archivo
+    is_payment_complete = Column(Boolean, default=False)
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)  # Fecha de creación

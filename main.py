@@ -9,6 +9,7 @@ import os
 from app.logger.logger import logger
 from typing import List
 from app.models import Participant
+from datetime import datetime
 
 Base.metadata.create_all(bind=engine)
 
@@ -76,34 +77,37 @@ def delete_participant_by_id(participant_id: int, db: Session = Depends(get_db))
 @app.post("/participants/{aztlan_id}/upload")
 def upload_payment_proof(
     aztlan_id: str,
-    file: UploadFile = File(...),  # Expecting a file from the client
+    file: UploadFile = File(...),
     db: Session = Depends(get_db),
 ):
+    logger.info(f"Subiendo comprobante de participante {aztlan_id}")
     try:
         db_participant = get_participant_by_aztlan_id(db, aztlan_id)
         if not db_participant:
-            logger.info("so el linea 67")
             raise HTTPException(status_code=404, detail="Participant not found")
         
-        # Validate file type
         file_extension = os.path.splitext(file.filename)[1]
         if file_extension not in [".jpg", ".jpeg", ".png"]:
             raise HTTPException(status_code=400, detail="Invalid file format. Only JPG and PNG are allowed.")
         
-        # Generate a unique filename
         unique_filename = f"comprobante-{aztlan_id}{file_extension}"
         file_path = os.path.join(UPLOAD_DIR, unique_filename)
         
-        # Save the file synchronously
         with open(file_path, "wb") as f:
             f.write(file.file.read())
         
-        # Update participant's payment proof
-        file_url = f"/static/{unique_filename}"  # Public URL for the file
-        updates = ParticipantUpdate(payment_proof=file_url)
-        updated_participant = update_participant(db, aztlan_id, updates)
-        
-        return updated_participant
+        from app.models import Payment 
+
+        new_payment = Payment(
+            aztlan_id=aztlan_id,
+            payment_proof=file_path,
+            created_at=datetime.utcnow(),
+        )
+        db.add(new_payment)
+        db.commit()
+        db.refresh(new_payment)
+
+        return {"message": "Payment proof uploaded and registered successfully", "payment_id": new_payment.id}
     
     except Exception as e:
         print(f"Error: {e}")
