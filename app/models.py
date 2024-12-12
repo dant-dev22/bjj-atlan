@@ -14,10 +14,12 @@ class Participant(Base):
     weight = Column(Float, nullable=False)
     academy = Column(String, nullable=False)
     height = Column(Float, nullable=False)
-    category = Column(String, nullable=False)  # Años entrenando
-    payment_proof = Column(String, nullable=True)  # URL o archivo
+    category = Column(String, nullable=False)
+    payment_proof = Column(String, nullable=True)
     registered_at = Column(DateTime, default=datetime.datetime.utcnow)
     is_payment_complete = Column(Boolean, default=False)
+    email = Column(String, nullable=False) 
+    created_at = Column(DateTime, default=datetime.datetime.utcnow) 
 
 class Payment(Base):
     __tablename__ = "payments"

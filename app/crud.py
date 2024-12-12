@@ -3,6 +3,7 @@ from .models import Participant
 from .schemas import ParticipantCreate, ParticipantUpdate
 from app.logger.logger import logger
 from uuid import uuid4
+from datetime import datetime
 
 def create_participant(db: Session, participant: ParticipantCreate):
     db_participant = Participant(**participant.dict())
@@ -10,6 +11,8 @@ def create_participant(db: Session, participant: ParticipantCreate):
     generated_id_str = str(generated_id)
     short_id = generated_id_str[:6]
     aztlan_id = f"{short_id}"
+    
+    db_participant.created_at = datetime.utcnow()
 
     db_participant.aztlan_id = aztlan_id
     logger.info(f"Creando participante {db_participant.aztlan_id}")

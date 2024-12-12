@@ -74,6 +74,26 @@ def delete_participant_by_id(participant_id: int, db: Session = Depends(get_db))
         raise HTTPException(status_code=404, detail="Participant not found")
     return db_participant
 
+@app.get("/participants/{aztlan_id}/payment-proof")
+def get_payment_proof(
+    aztlan_id: str,
+    db: Session = Depends(get_db),
+):
+    logger.info(f"Obteniendo comprobante de pago de participante {aztlan_id}")
+    try:
+        from app.models import Payment
+        
+        payment = db.query(Payment).filter(Payment.aztlan_id == aztlan_id).first()
+
+        if not payment:
+            return {"payment_proof": None}
+        
+        return {"payment_proof": payment.payment_proof}
+    
+    except Exception as e:
+        logger.error(f"Error: {e}")
+        raise HTTPException(status_code=500, detail="Internal Server Error")
+
 @app.post("/participants/{aztlan_id}/upload")
 def upload_payment_proof(
     aztlan_id: str,
@@ -115,4 +135,4 @@ def upload_payment_proof(
 
 # Serve static files
 from fastapi.staticfiles import StaticFiles
-app.mount("/static", StaticFiles(directory=UPLOAD_DIR), name="static")
+app.mount("/uploaded_images", StaticFiles(directory="uploaded_images"), name="uploaded_images")

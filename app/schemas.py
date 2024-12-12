@@ -10,6 +10,7 @@ class ParticipantBase(BaseModel):
     height: float
     category: str
     aztlan_id: Optional[str] = None
+    email: Optional[str]  # Nuevo campo
 
 class ParticipantCreate(ParticipantBase):
     pass
@@ -20,22 +21,7 @@ class ParticipantUpdate(BaseModel):
 class ParticipantResponse(ParticipantBase):
     id: int
     payment_proof: Optional[str] = None
-    is_payment_complete: bool
-
-    class Config:
-        orm_mode = True
-
-class PaymentBase(BaseModel):
-    aztlan_id: str
-    payment_proof: Optional[str] = None
-    is_payment_complete: bool
-
-class PaymentCreate(PaymentBase):
-    pass
-
-class PaymentResponse(PaymentBase):
-    id: int
-    created_at: datetime
+    created_at: Optional[datetime]  # Nuevo campo
 
     class Config:
         orm_mode = True
