@@ -24,11 +24,14 @@ def create_participant(db: Session, participant: ParticipantCreate):
     return db_participant
 
 def get_participant_by_aztlan_id(db: Session, aztlan_id: str):
+    logger.info(f"Buscando participante con aztlan_id {aztlan_id}")
     return db.query(Participant).filter(Participant.aztlan_id == aztlan_id).first()
 
 def update_participant(db: Session, participant_id: int, updates: ParticipantUpdate):
+    logger.info(f"Actualizando participante con ID {participant_id}")
     db_participant = get_participant(db, participant_id)
     if not db_participant:
+        logger.warning(f"Participante con ID {participant_id} no encontrado para actualización")
         return None
     for key, value in updates.dict(exclude_unset=True).items():
         setattr(db_participant, key, value)
@@ -39,10 +42,12 @@ def update_participant(db: Session, participant_id: int, updates: ParticipantUpd
     return db_participant
 
 def delete_participant(db: Session, participant_id: int):
-    logger.info(f"Eliminando participante en el crud {participant_id}")
+    logger.info(f"Eliminando participante en el crud con ID {participant_id}")
     db_participant = db.query(Participant).filter(Participant.id == participant_id).first()
     if db_participant:
+        logger.info(f"Participante encontrado. Procediendo con la eliminación: ID {participant_id}")
         db.delete(db_participant)
         db.commit()
         return db_participant
+    logger.warning(f"No se encontró participante con ID {participant_id} para eliminar")
     return None
