@@ -1273,3 +1273,111 @@
 2024-12-11 19:51:23,284 - my_logger - INFO - Obteniendo comprobante de pago de participante c02ca3
 2024-12-11 19:51:23,284 - my_logger - INFO - Obteniendo comprobante de pago de participante 47158e
 2024-12-11 19:51:23,285 - my_logger - INFO - Obteniendo comprobante de pago de participante 8e85ed
+2024-12-13 10:06:47,014 - my_logger - INFO - Registrando nuevo participante
+2024-12-13 10:06:47,016 - my_logger - INFO - Creando participante a9a809
+2024-12-13 10:07:05,754 - my_logger - INFO - Obteniendo todos los participantes
+2024-12-13 10:07:05,890 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 91cf14
+2024-12-13 10:07:05,894 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 1a460b
+2024-12-13 10:07:05,894 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 9fb8af
+2024-12-13 10:07:05,895 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID bae3ba
+2024-12-13 10:07:05,895 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 69c710
+2024-12-13 10:07:05,895 - my_logger - WARNING - No se encontró comprobante de pago para el participante 1a460b
+2024-12-13 10:07:05,895 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID d9617d
+2024-12-13 10:07:05,897 - my_logger - WARNING - No se encontró comprobante de pago para el participante 9fb8af
+2024-12-13 10:07:05,898 - my_logger - WARNING - No se encontró comprobante de pago para el participante 69c710
+2024-12-13 10:07:05,898 - my_logger - WARNING - No se encontró comprobante de pago para el participante bae3ba
+2024-12-13 10:07:05,902 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID e86788
+2024-12-13 10:07:05,902 - my_logger - WARNING - No se encontró comprobante de pago para el participante e86788
+2024-12-13 10:07:05,903 - my_logger - WARNING - No se encontró comprobante de pago para el participante d9617d
+2024-12-13 10:07:05,909 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID b49dcd
+2024-12-13 10:07:05,910 - my_logger - WARNING - No se encontró comprobante de pago para el participante b49dcd
+2024-12-13 10:07:05,911 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 514d13
+2024-12-13 10:07:05,911 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 5df559
+2024-12-13 10:07:05,911 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 2f66b4
+2024-12-13 10:07:05,913 - my_logger - WARNING - No se encontró comprobante de pago para el participante 514d13
+2024-12-13 10:07:05,914 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID a043db
+2024-12-13 10:07:05,915 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID e6d848
+2024-12-13 10:07:05,916 - my_logger - WARNING - No se encontró comprobante de pago para el participante 5df559
+2024-12-13 10:07:05,919 - my_logger - WARNING - No se encontró comprobante de pago para el participante e6d848
+2024-12-13 10:07:05,917 - my_logger - WARNING - No se encontró comprobante de pago para el participante 2f66b4
+2024-12-13 10:07:05,918 - my_logger - WARNING - No se encontró comprobante de pago para el participante a043db
+2024-12-13 10:07:05,922 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 47158e
+2024-12-13 10:07:05,923 - my_logger - WARNING - No se encontró comprobante de pago para el participante 47158e
+2024-12-13 10:07:05,927 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID c02ca3
+2024-12-13 10:07:05,928 - my_logger - WARNING - No se encontró comprobante de pago para el participante c02ca3
+2024-12-13 10:07:05,929 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 8e85ed
+2024-12-13 10:07:05,929 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 8cb98e
+2024-12-13 10:07:05,929 - my_logger - WARNING - No se encontró comprobante de pago para el participante 8cb98e
+2024-12-13 10:07:05,929 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID a9a809
+2024-12-13 10:07:05,930 - my_logger - WARNING - No se encontró comprobante de pago para el participante a9a809
+2024-12-13 10:07:05,930 - my_logger - WARNING - No se encontró comprobante de pago para el participante 8e85ed
+2024-12-13 10:07:08,627 - my_logger - INFO - Eliminando participante con ID 13
+2024-12-13 10:07:08,627 - my_logger - INFO - Eliminando participante en el crud con ID 13
+2024-12-13 10:07:08,629 - my_logger - INFO - Participante encontrado. Procediendo con la eliminación: ID 13
+2024-12-13 10:07:09,655 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 91cf14
+2024-12-13 10:07:09,655 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID bae3ba
+2024-12-13 10:07:09,655 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID d9617d
+2024-12-13 10:07:09,656 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID e86788
+2024-12-13 10:07:09,656 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 9fb8af
+2024-12-13 10:07:09,656 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 69c710
+2024-12-13 10:07:09,657 - my_logger - WARNING - No se encontró comprobante de pago para el participante bae3ba
+2024-12-13 10:07:09,658 - my_logger - WARNING - No se encontró comprobante de pago para el participante d9617d
+2024-12-13 10:07:09,658 - my_logger - WARNING - No se encontró comprobante de pago para el participante e86788
+2024-12-13 10:07:09,659 - my_logger - WARNING - No se encontró comprobante de pago para el participante 9fb8af
+2024-12-13 10:07:09,660 - my_logger - WARNING - No se encontró comprobante de pago para el participante 69c710
+2024-12-13 10:07:09,666 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID b49dcd
+2024-12-13 10:07:09,669 - my_logger - WARNING - No se encontró comprobante de pago para el participante b49dcd
+2024-12-13 10:07:09,671 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 514d13
+2024-12-13 10:07:09,673 - my_logger - WARNING - No se encontró comprobante de pago para el participante 514d13
+2024-12-13 10:07:09,673 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 2f66b4
+2024-12-13 10:07:09,674 - my_logger - WARNING - No se encontró comprobante de pago para el participante 2f66b4
+2024-12-13 10:07:09,675 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 5df559
+2024-12-13 10:07:09,676 - my_logger - WARNING - No se encontró comprobante de pago para el participante 5df559
+2024-12-13 10:07:09,677 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID e6d848
+2024-12-13 10:07:09,679 - my_logger - WARNING - No se encontró comprobante de pago para el participante e6d848
+2024-12-13 10:07:09,679 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID a043db
+2024-12-13 10:07:09,680 - my_logger - WARNING - No se encontró comprobante de pago para el participante a043db
+2024-12-13 10:07:09,683 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 47158e
+2024-12-13 10:07:09,683 - my_logger - WARNING - No se encontró comprobante de pago para el participante 47158e
+2024-12-13 10:07:09,684 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID c02ca3
+2024-12-13 10:07:09,685 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 8cb98e
+2024-12-13 10:07:09,685 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 8e85ed
+2024-12-13 10:07:09,688 - my_logger - WARNING - No se encontró comprobante de pago para el participante c02ca3
+2024-12-13 10:07:09,688 - my_logger - WARNING - No se encontró comprobante de pago para el participante 8cb98e
+2024-12-13 10:07:09,689 - my_logger - WARNING - No se encontró comprobante de pago para el participante 8e85ed
+2024-12-13 10:07:09,689 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID a9a809
+2024-12-13 10:07:09,692 - my_logger - WARNING - No se encontró comprobante de pago para el participante a9a809
+2024-12-13 10:07:10,560 - my_logger - INFO - Eliminando participante con ID 14
+2024-12-13 10:07:10,561 - my_logger - INFO - Eliminando participante en el crud con ID 14
+2024-12-13 10:07:10,562 - my_logger - INFO - Participante encontrado. Procediendo con la eliminación: ID 14
+2024-12-13 10:07:12,618 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 69c710
+2024-12-13 10:07:12,618 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 91cf14
+2024-12-13 10:07:12,618 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID bae3ba
+2024-12-13 10:07:12,618 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID b49dcd
+2024-12-13 10:07:12,618 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID e86788
+2024-12-13 10:07:12,618 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID d9617d
+2024-12-13 10:07:12,618 - my_logger - WARNING - No se encontró comprobante de pago para el participante 69c710
+2024-12-13 10:07:12,619 - my_logger - WARNING - No se encontró comprobante de pago para el participante bae3ba
+2024-12-13 10:07:12,619 - my_logger - WARNING - No se encontró comprobante de pago para el participante b49dcd
+2024-12-13 10:07:12,619 - my_logger - WARNING - No se encontró comprobante de pago para el participante e86788
+2024-12-13 10:07:12,620 - my_logger - WARNING - No se encontró comprobante de pago para el participante d9617d
+2024-12-13 10:07:12,623 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 514d13
+2024-12-13 10:07:12,624 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 2f66b4
+2024-12-13 10:07:12,624 - my_logger - WARNING - No se encontró comprobante de pago para el participante 514d13
+2024-12-13 10:07:12,624 - my_logger - WARNING - No se encontró comprobante de pago para el participante 2f66b4
+2024-12-13 10:07:12,626 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 5df559
+2024-12-13 10:07:12,626 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID a043db
+2024-12-13 10:07:12,627 - my_logger - WARNING - No se encontró comprobante de pago para el participante 5df559
+2024-12-13 10:07:12,628 - my_logger - WARNING - No se encontró comprobante de pago para el participante a043db
+2024-12-13 10:07:12,629 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 47158e
+2024-12-13 10:07:12,629 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID e6d848
+2024-12-13 10:07:12,631 - my_logger - WARNING - No se encontró comprobante de pago para el participante e6d848
+2024-12-13 10:07:12,631 - my_logger - WARNING - No se encontró comprobante de pago para el participante 47158e
+2024-12-13 10:07:12,635 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID c02ca3
+2024-12-13 10:07:12,635 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 8e85ed
+2024-12-13 10:07:12,636 - my_logger - WARNING - No se encontró comprobante de pago para el participante c02ca3
+2024-12-13 10:07:12,638 - my_logger - WARNING - No se encontró comprobante de pago para el participante 8e85ed
+2024-12-13 10:07:12,638 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID a9a809
+2024-12-13 10:07:12,638 - my_logger - INFO - Obteniendo comprobante de pago del participante con ID 8cb98e
+2024-12-13 10:07:12,640 - my_logger - WARNING - No se encontró comprobante de pago para el participante a9a809
+2024-12-13 10:07:12,640 - my_logger - WARNING - No se encontró comprobante de pago para el participante 8cb98e
